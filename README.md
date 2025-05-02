@@ -113,4 +113,4 @@ MacMascotAppは、Windows用のWinMascotTemplateをMacOS向けに移植したデ
 
 ## ライセンス
 
-このプロジェクトは元のWinMascotTemplateと同じライセンスの下で公開されています。
+このプロジェクトは元のWinMascotTemplateと同じライセンス(MIT)の下で公開されています。
